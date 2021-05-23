@@ -1,0 +1,38 @@
+
+body {
+  background-color: pink;
+}
+
+
+
+
+table, td{
+  text-align: left;
+}
+
+table {
+  margin-top: 45px;
+  border-collapse: collapse;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #e4d3cf;
+  color: black;
+  border-radius: 20px;
+  font-family: Montserrat;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+td {
+  padding: 15px;
+  text-align: left;
+}
+
+a {
+  color: #e97171;
+}
+
+a:hover {
+  color: #ff4b5c;
+}

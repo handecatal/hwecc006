@@ -90,6 +90,16 @@ body {
   margin-bottom: 500px;
 }
 
+.top-container p {
+  position: absolute;
+  color: #693c72;
+  position: absolute;
+  left: 45%;
+  bottom: 32%;
+  font-size: 24px;
+
+}
+
 .bottom-container {
   background-color: #af8baf;
   margin-top: 200px;
